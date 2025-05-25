@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     const urls = [
+        { name: "Dumpster Sites", url: "https://dumpsterfridge.com" },
         { name: "Nettleweb", url: "https://nettleweb.pages.dev/" },
         { name: "Half Life", url: "https://x8bitrain.github.io/webXash/" },
         { name: "Knockoff Windows 98", url: "https://98.js.org/" },
